@@ -1,0 +1,13 @@
+.Main {
+    width: 70%;
+    height: 80%;
+    margin: 0 auto;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* position: relative; */
+    /* direction: rtl; */
+    flex-direction: column;
+    position: relative;
+    
+}
