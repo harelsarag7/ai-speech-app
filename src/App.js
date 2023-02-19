@@ -16,6 +16,7 @@ function App() {
     <div className="App">
       <Header/>
       <Routes>
+        
       {
         token ? 
           <Route path='*' element={<Main />}></Route>
